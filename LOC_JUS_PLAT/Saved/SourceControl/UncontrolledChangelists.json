@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
+				"C:/Users/game/Documents/GitHub/LOCHIN_PLAT_JV2/LOC_JUS_PLAT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/E3/I5FGWO6THLGC5DDJL99UK3.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/Meshes/SM_ChamferCube.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/Meshes/SM_Cube.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/Meshes/SM_Cylinder.uasset",
@@ -27,7 +29,6 @@
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/Materials/M_FlatCol.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/Meshes/BP_tourne.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/MF/A29LDZ7PY3YOP81AN1X5EW.uasset",
 				"C:/Users/game/Documents/Unreal Projects/LOC_JUS_PLAT/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/WB/NN1FA9TMAQ9W1P9OGAENIP.uasset",
